@@ -123,4 +123,4 @@ We encourage you to contribute to SecDevLabs! Please check out the [Contributing
 [Docker Compose Install]: https://docs.docker.com/compose/install/
 [App]: http://localhost:10005
 [secDevLabs]: https://github.com/globocom/secDevLabs
-[2]:https://github.com/globocom/secDevLabs/tree/master/owasp-top10-2017-apps/a5/ecommerce-api
+[2]:https://github.com/globocom/secDevLabs/tree/master/owasp-top10-2021-apps/a1/ecommerce-api

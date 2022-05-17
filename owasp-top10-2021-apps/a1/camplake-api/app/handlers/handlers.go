@@ -19,14 +19,14 @@ func HealthCheck(c echo.Context) error {
 
 func WriteCookie(c echo.Context, jwt string) error {
 	cookie := new(http.Cookie)
-	cookie.Name = "sessionIDa5"
+	cookie.Name = "sessionIDa1"
 	cookie.Value = jwt
 	c.SetCookie(cookie)
 	return c.String(http.StatusOK, "")
 }
 
 func ReadCookie(c echo.Context) error {
-	cookie, err := c.Cookie("sessionIDa5")
+	cookie, err := c.Cookie("sessionIDa1")
 	if err != nil {
 		log.WithFields(
 			log.Fields{
