@@ -1,5 +1,3 @@
-[Link para documentação em portugues](#/README_pt-br.md)
-
 <p align="center">
   <img src="images/secDevLabs-logo.png" allign="center" height=""/>
   <!-- logo font: Agency FB Bold Condensed -->
