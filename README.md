@@ -1,4 +1,4 @@
-[Link para documentação em portugues](/README_pt-br.md)
+[Link para documentação em portugues](https://github.com/fguisso/secDevLabs/blob/Docamile/README_pt-bt.md)
 
 <p align="center">
   <img src="images/secDevLabs-logo.png" allign="center" height=""/>
